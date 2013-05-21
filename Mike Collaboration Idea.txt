@@ -1,0 +1,12 @@
+I'm more interested in learning proof-of-concepts and gaining experience programming than anything else, really.
+
+So I'd like to suggest a two-part project, trying to tie in as many technologies as possible. I want the 'application' to offer similar (identical?) functionality from the web site and the android app, and to use push messaging to update from one to another.
+
+So-
+
+1) Android Application- stores a series of 'things to do', geographically mapped. Each 'to do' should be a google-now card-style set of information, with a picture, map, description, etc. Sortable and filterable by category (meals, entertainment, etc). At a high-level, we could use some fancy netflix-style algorithms to pick 'if you liked X, you would like Y'.
+
+2) Web site- basically, browse the information above in a visually appealing manner, with the ability to 'pin' information to the user and add it to the 'to-do' list.
+
+
+Fun random extras- NFC integration (share recommendations, etc), calendar integration, any random 'social' aspect.
