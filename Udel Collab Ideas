@@ -1,0 +1,15 @@
+GREETINGS!
+
+Aside from the greetings, I'm here for a variety of legitimate reasons. I agree with Mike completely about learning proof-of-concepts and gaining experience. I'd like to have a nice, polished finished product that I can show as an actual example of my work (because I have hardly any from my "actual job"). I'd definitely like to work more with Java and learn Android stuff as thoroughly as possible. 
+
+I'd had a couple ideas for apps over the past "since-some-time-ago":
+
+1) A GAME - this was meant to be a way for me to fuck around a whole bunch with audio, signal processing, UX, and, oh, colors. Android puzzle game that uses player's own music library for input. I was thinking something relatively basic as far as actual gameplay is concerned - almost like the infamous "helicopter game", but the scenery you're flying through is responsive to the music that's playing. Did you ever play Lumines (http://www.youtube.com/watch?v=v3Xs70smQuo)? This game was basically total sensory overload, and for that reason, was awesome. Everything made a sound effect and the music changed a ton based on how you were doing. -levels are marked by different songs -filters are engaged (tone changes) based on how you're doing -freq analysis to determine color changes between each level -publish to web w/scores for playlist? -play with friends over internet/facebook? -either puzzle game like lumines or a side scrolling "jump over obstacles" game
+
+2) FOR EXERCISING AND ALSO MORE AUDIO - an app to automatically build playlists on the fly, sync music tempo to your heart rate / running pace. This would obviously require some extra hardware so it might be too large of an undertaking (not that I don't love hardware!). Still I think it could be a cool idea. Kind of like an auto-DJ-meets-fitness-monitor app.
+
+3.) FOR FOOD: A COOKING TIMER - Hey consumer! I bet you eat food every day! How about cooking? This would be something like a kitchen assistant while cooking multiple items. I'd want to have some big DB of tables of ingredients vs how long it takes to cook them using multiple methods. The user thinks, for instance, "hey imma cook up some stir fry, there are like 19 vegetables, what the fuck". In the app they add each vegetable with how it needs to be cooked (like "hey these peppers go in your giant wok, duh, idiot"), which is then sorted by wok/pot/pan. Each vessel shows active timers on how long each veggie has been in there, how much longer it should take, gives alerts when finished, etc. Going for max complexity this could also be tied in with user-submitted ingredients, recipes, feedback on cooking times, etc.
+
+Anyway, those are just a few ideas I've had brewing in the back of my brain area over the past few months. I'm not dying to start work on any of them immediately and wouldn't have my feels hurt if you wanna take things in another direction, but I think any of them would be a solid project for Team Downtime All-Stars (btw I am going to keep renaming the group).
+
+Mike
